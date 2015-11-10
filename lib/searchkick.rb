@@ -7,7 +7,7 @@ require "searchkick/results"
 require "searchkick/query"
 require "searchkick/reindex_job"
 require "searchkick/model"
-require "searchkick/tasks"
+#require "searchkick/tasks"
 require "searchkick/logging" if defined?(Rails)
 
 # background jobs
